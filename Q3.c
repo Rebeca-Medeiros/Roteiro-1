@@ -4,7 +4,7 @@
 int main ()
 {
     int n;
-    int maior = 0;;
+    int maior = 0;
 
     while (1){
 
